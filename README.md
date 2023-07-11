@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Nodejs with Mongo<br>🎯 Goal: Get into a tech company, where I'd get an opportunity to hone my existing skill.<br>🎲 Fun fact: I'm a Cityzen ;)<br><br>P.S. Send emails to <a href="mailto:amissahfrank17@gmail.com">amissahfrank17@gmail.com</a></p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Nodejs with Mongo<br>🎯 Goal: Get into a tech company where I'd get the opportunity to hone my existing skill.<br>🎲 Fun fact: I'm a Cityzen ;)<br><br>P.S. Send emails to <a href="mailto:amissahfrank17@gmail.com">amissahfrank17@gmail.com</a></p>
 
 ###
 
